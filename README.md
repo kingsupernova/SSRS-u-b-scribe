@@ -1,1 +1,3 @@
-# SSRS-u-b-scribe
+# SSR_Subscrib
+
+>> How to change group name?
